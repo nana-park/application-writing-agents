@@ -1,0 +1,4 @@
+interface:
+  display_name: "Application Motivation Mentor"
+  short_description: "회사 조사와 세 가지 fit으로 지원동기를 설계합니다"
+  default_prompt: "Use $application-writing-motivation-mentor to research this company and role, then coach my 지원동기 through domain fit, career fit, culture fit, and Give & Take."

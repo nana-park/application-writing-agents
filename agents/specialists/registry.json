@@ -1,0 +1,26 @@
+{
+  "writer-motivation": {
+    "tags": [
+      "지원동기"
+    ],
+    "role_file": "agents/specialists/writer-motivation.md",
+    "skill": "application-writing-motivation-mentor",
+    "status": "ready",
+    "fallback": "writer-a + writer-b with existing coaching rules",
+    "ready_scope": "Reusable role instructions only; validate in your environment",
+    "learning_rules": "docs/learned-writing-patterns.md"
+  },
+  "writer-strength-role-fit": {
+    "tags": [
+      "강점",
+      "직무적합성",
+      "AI 역량"
+    ],
+    "role_file": "agents/specialists/writer-strength-role-fit.md",
+    "skill": "pm-drama-upgrade-mentor",
+    "status": "ready",
+    "fallback": "writer-a + writer-b with common writing rules",
+    "ready_scope": "Reusable role instructions only; validate in your environment",
+    "learning_rules": "docs/learned-writing-patterns.md"
+  }
+}

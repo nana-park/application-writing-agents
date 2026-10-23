@@ -1,0 +1,4 @@
+interface:
+  display_name: "PM Drama Upgrade Mentor"
+  short_description: "시니어 AI PM의 관점으로 공고에 맞는 강점과 채용 근거를 구체화합니다"
+  default_prompt: "Use $pm-drama-upgrade-mentor to analyze my target job and essay prompt, identify differentiated AI strengths in my evidence, and coach me toward a persuasive application through focused questions and visible revisions."

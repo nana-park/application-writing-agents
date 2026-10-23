@@ -1,0 +1,4 @@
+interface:
+  display_name: "지원 전 직무·기업 분석"
+  short_description: "자소서와 면접 전에 직무·문항·기업·지원 전략을 분석합니다"
+  default_prompt: "$application-prework-strategist로 업로드한 JD와 전체 자기소개서 문항을 분석해 공통 선행 리포트를 만들어줘. 최신 회사 근거와 해석을 구분하고 자소서·면접 전략까지 연결해줘."
