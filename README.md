@@ -4,6 +4,12 @@ Korean-language instructions for a team of agents that research a role, verify e
 
 This repository contains skills and workflow documents. It is not a standalone app or an automatic application submission service.
 
+## HTML research reports and publication
+
+For the Career Workspace HTML site, the private **Application Writer Multi-Agent** repository is the source of truth for company/JD/essay definitions, schemas, templates and renderers. [Job Application Strategist](https://github.com/nana-park/job-application-strategist) publishes approved exports from that writer. This public repository remains a sanitized instruction edition; it is not the HTML renderer or a second source for that site's research policy.
+
+Authorized maintainers use the private writer's validated preparation command, then review and approve the public diff. There is no background synchronization and this repository does not contain the private renderer dependencies. Do not run the writer commands from this checkout or copy private source records here. See [HTML publication boundary](docs/html-publication.md) for the exact division and validation limits.
+
 ## Quick start
 
 1. Download or clone the repository and open it in your agent workspace.
